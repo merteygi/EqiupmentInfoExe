@@ -7,6 +7,7 @@ Right now, I don't have authentication to run codes properly but I'm sharing its
 
 I wrote the code in Python and I use mainly the pandas libraries. After that, to visualize and to have interactions with users, I turned these code into an executable file with the power of PyQt5.
 
+The [main.py](https://github.com/merteygi/EqiupmentInfoExe/blob/main/main.py) file handles almost all required things. And also there is additional [FreqBandsUI.py](https://github.com/merteygi/EqiupmentInfoExe/blob/main/FreqBandsUI.py) and [HakkindaUI.py](https://github.com/merteygi/EqiupmentInfoExe/blob/main/HakkindaUI.py) files for access in the menu bar button called 'info'.
 
 ## Purpose
 It is used to bring LTE & UMTS Equipment (nodeb or enodeb) and RRU information of Ericsson in the field from files exported in the common area, in single or multiple lists, without the need for extra connection to Mobile Network equipment.
