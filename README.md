@@ -24,4 +24,6 @@ In case of need, a link containing the required documents of the equipment is gi
 The frequency spectrum of the 3 operators in Turkey and the band information of this spectrum are also attached as a picture.
 
 
-![Screenshot](1.png)
+![Screenshot](SS_1.png)
+
+![Screenshot](SS_3.png)
