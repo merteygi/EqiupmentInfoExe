@@ -22,3 +22,6 @@ Baseband and RRU information in a cabinet can be viewed both in summary and in d
 In case of need, a link containing the required documents of the equipment is given as easily accessible.
 
 The frequency spectrum of the 3 operators in Turkey and the band information of this spectrum are also attached as a picture.
+
+
+![Screenshot](1.png)
